@@ -1,7 +1,13 @@
 {
     "name": "electron-app",
     "version": "0.0.1",
-    "author": "Ivan Selyutin <ivan5key@gmail.com>",
+    "author": "Ivan Selyutin",
+    "email": "ivan5key@gmail.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ivan5key/electron-react-app"
+    },
+    "license" : "MIT",
     "keywords": [
         "electron",
         "react",
